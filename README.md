@@ -3,7 +3,7 @@
 Package-forwarding checkout with a sign-up coupon that can't be double-dipped, honest payment outcomes and shipment tracking.
 
 > **Status: in development.** This repo is the plan and the write-up; the interactive demo is being built next.
-> Star or watch the repo to see it land. The live demo link will appear here.
+> **Demo preview:** https://julynard.github.io/shipbox-checkout/ (becomes the live demo when it ships).
 
 Part of [Julynard Tago-on's portfolio](https://julynardtago-on.netlify.app/#projects). Based on the package-forwarding platform at CoreProc where I shipped the sign-up coupon program and hardened payment confirmation.
 Client code is private, so this is a clean-room demo with fictional data. No client names or real data.
